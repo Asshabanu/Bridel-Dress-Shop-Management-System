@@ -1,0 +1,125 @@
+D:\New folder (5)\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\BridalDressShopManagement.exe.config
+D:\New folder (5)\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\BridalDressShopManagement.exe
+D:\New folder (5)\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\BridalDressShopManagement.pdb
+D:\New folder (5)\BridalDressShopManagement\BridalDressShopManagement\obj\Debug\BridalDressShopManagement.csproj.AssemblyReference.cache
+D:\New folder (5)\BridalDressShopManagement\BridalDressShopManagement\obj\Debug\BridalDressShopManagement.Form1.resources
+D:\New folder (5)\BridalDressShopManagement\BridalDressShopManagement\obj\Debug\BridalDressShopManagement.Properties.Resources.resources
+D:\New folder (5)\BridalDressShopManagement\BridalDressShopManagement\obj\Debug\BridalDressShopManagement.csproj.GenerateResource.cache
+D:\New folder (5)\BridalDressShopManagement\BridalDressShopManagement\obj\Debug\BridalDressShopManagement.csproj.CoreCompileInputs.cache
+D:\New folder (5)\BridalDressShopManagement\BridalDressShopManagement\obj\Debug\BridalDressShopManagement.exe
+D:\New folder (5)\BridalDressShopManagement\BridalDressShopManagement\obj\Debug\BridalDressShopManagement.pdb
+D:\New folder (5)\BridalDressShopManagement\BridalDressShopManagement\obj\Debug\BridalDressShopManagement.dashboard.resources
+D:\New folder (5)\BridalDressShopManagement\BridalDressShopManagement\obj\Debug\BridalDressShopManagement.Customer.resources
+D:\New folder (5)\BridalDressShopManagement\BridalDressShopManagement\obj\Debug\BridalDressShopManagement.Inventory.resources
+D:\New folder (5)\BridalDressShopManagement\BridalDressShopManagement\obj\Debug\BridalDressShopManagement.orders.resources
+D:\New folder (5)\BridalDressShopManagement\BridalDressShopManagement\obj\Debug\BridalDressShopManagement.reports.resources
+D:\New folder (5)\BridalDressShopManagement\BridalDressShopManagement\obj\Debug\BridalDressShopManagement.payment.resources
+D:\New folder (5)\BridalDressShopManagement\BridalDressShopManagement\obj\Debug\BridalDressShopManagement.Form2.resources
+D:\New folder (5)\BridalDressShopManagement\BridalDressShopManagement\obj\Debug\BridalDressShopManagement.add_customer.resources
+D:\BridalDressShopManagement\BridalDressShopManagement\obj\Debug\BridalDressShopManagement.csproj.AssemblyReference.cache
+D:\BridalDressShopManagement\BridalDressShopManagement\obj\Debug\BridalDressShopManagement.add_customer.resources
+D:\BridalDressShopManagement\BridalDressShopManagement\obj\Debug\BridalDressShopManagement.Customer.resources
+D:\BridalDressShopManagement\BridalDressShopManagement\obj\Debug\BridalDressShopManagement.dashboard.resources
+D:\BridalDressShopManagement\BridalDressShopManagement\obj\Debug\BridalDressShopManagement.Login.resources
+D:\BridalDressShopManagement\BridalDressShopManagement\obj\Debug\BridalDressShopManagement.Inventory.resources
+D:\BridalDressShopManagement\BridalDressShopManagement\obj\Debug\BridalDressShopManagement.orders.resources
+D:\BridalDressShopManagement\BridalDressShopManagement\obj\Debug\BridalDressShopManagement.payment.resources
+D:\BridalDressShopManagement\BridalDressShopManagement\obj\Debug\BridalDressShopManagement.Properties.Resources.resources
+D:\BridalDressShopManagement\BridalDressShopManagement\obj\Debug\BridalDressShopManagement.reports.resources
+D:\BridalDressShopManagement\BridalDressShopManagement\obj\Debug\BridalDressShopManagement.csproj.GenerateResource.cache
+D:\BridalDressShopManagement\BridalDressShopManagement\obj\Debug\BridalDressShopManagement.csproj.CoreCompileInputs.cache
+D:\BridalDressShopManagement\BridalDressShopManagement\obj\Debug\BridalDressShopManagement.exe
+D:\BridalDressShopManagement\BridalDressShopManagement\obj\Debug\BridalDressShopManagement.pdb
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\BridalDressShopManagement.exe.config
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\BridalDressShopManagement.exe
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\BridalDressShopManagement.pdb
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\Azure.Core.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\Azure.Identity.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\Microsoft.Bcl.Cryptography.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\Microsoft.Extensions.Options.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\Microsoft.Identity.Client.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\System.Buffers.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\System.ClientModel.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\System.Memory.Data.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\System.Memory.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\System.Numerics.Vectors.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\System.Security.AccessControl.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\System.Security.Principal.Windows.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\System.Text.Encodings.Web.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\System.Text.Json.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\System.ValueTuple.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\Azure.Core.xml
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\Azure.Identity.xml
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\Microsoft.Bcl.Cryptography.xml
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\Microsoft.Extensions.Options.xml
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\Microsoft.Identity.Client.xml
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\System.Buffers.xml
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\System.ClientModel.xml
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\System.Memory.xml
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\System.Memory.Data.xml
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\System.Numerics.Vectors.xml
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\System.Security.AccessControl.xml
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\System.Security.Principal.Windows.xml
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\System.Text.Encodings.Web.xml
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\System.Text.Json.xml
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\System.ValueTuple.xml
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\BridalDressShopManagement\BridalDressShopManagement\obj\Debug\BridalDr.5036ECD2.Up2Date
+D:\BridalDressShopManagement\BridalDressShopManagement\obj\Debug\BridalDressShopManagement.Add_inventory_Form.resources
+D:\BridalDressShopManagement\BridalDressShopManagement\obj\Debug\BridalDressShopManagement.Form1.resources
+D:\BridalDressShopManagement\BridalDressShopManagement\obj\Debug\BridalDressShopManagement.add_order.resources
+D:\BridalDressShopManagement\BridalDressShopManagement\obj\Debug\BridalDressShopManagement.Form3.resources
